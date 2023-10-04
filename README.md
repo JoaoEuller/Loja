@@ -1,2 +1,2 @@
 # Loja
-Loja de eletrônicos em python
+Projeto da faculdade, loja de eletrônicos em python.
